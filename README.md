@@ -92,3 +92,7 @@ Automating WhatsApp might violate their terms of service – use responsibly.
 📌 Note
 This project uses WhatsApp only as an example to demonstrate the automation workflow.
 It is not specifically a WhatsApp AI bot, and the same approach can be extended to other platforms.
+
+📸WorkFlow
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/355f9cd8-c02c-48c5-9197-8eebe96a5ba0" />
+
