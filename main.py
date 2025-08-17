@@ -6,7 +6,7 @@ from PIL import Image
 import google.generativeai as genai
 
 # ======= SETTINGS =======
-GEMINI_API_KEY = "AIzaSyC47gKgmjaaPAMaBcL1g-IUja-bU7OMBbw"
+GEMINI_API_KEY = "YOUR API KEY"
 
 # Coordinates (adjust for your screen)
 app_x, app_y = 1473, 1050       # Click app to focus
@@ -79,3 +79,4 @@ while True:
             type_whatsapp_reply(reply)
 
     time.sleep(1)  # reduce CPU usage
+
